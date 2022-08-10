@@ -2,5 +2,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-1. `git clone git@github.com:kyushun/next-starter.git {project_name}`
+1. `git clone -b tailwind git@github.com:kyushun/next-starter.git {project_name}`
 2. `git remote rm origin`
