@@ -4,3 +4,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 1. `git clone -b tailwind git@github.com:kyushun/next-starter.git {project_name}`
 2. `git remote rm origin`
+3. `git branch -m main`
